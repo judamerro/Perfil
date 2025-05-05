@@ -1,71 +1,86 @@
-# 👋 ¡Hola! Soy Juan David Meza Rodríguez
+<h1 align="center">✨ Juan David Meza Rodríguez ✨</h1>
 
-🎓 **Ingeniero de Software** graduando de la **Universidad de Cartagena**  
-🎨 Especializado en **Desarrollo Frontend**  
-📬 Contacto: [judamerro@gmail.com](mailto:judamerro@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/judamerro/) | [GitHub](https://github.com/judamerro)
+<p align="center">
+  <b>Frontend Developer • React • Next.js • TypeScript • Tailwind</b><br/>
+  📍 Cartagena, Colombia &nbsp;|&nbsp; 🎓 Universidad de Cartagena
+</p>
+
+<p align="center">
+  <a href="mailto:judamerro@gmail.com"><img src="https://img.shields.io/badge/-judamerro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/judamerro/"><img src="https://img.shields.io/badge/-judamerro-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/judamerro"><img src="https://img.shields.io/badge/-judamerro-000?style=flat-square&logo=GitHub&logoColor=white"/></a>
+</p>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un desarrollador frontend enfocado en construir experiencias de usuario modernas, eficientes y escalables. Me apasiona combinar diseño con código para crear interfaces limpias, accesibles y performantes.
+Soy un **desarrollador frontend** enfocado en construir experiencias de usuario modernas, accesibles y de alto rendimiento.  
+Me apasiona combinar código con diseño para desarrollar interfaces elegantes, intuitivas y escalables.
 
-Trabajo principalmente con:
+🛠️ Trabajo principalmente con:
 
-- ⚛️ **React.js** / **Next.js**
-- 🧠 **TypeScript**
-- 🎨 **Tailwind CSS**
-- 🔌 **APIs REST** / **GraphQL**
-- ⚙️ Herramientas como **Vite**, **Framer Motion**, **Zustand** y **Redux**
+- ⚛️ React.js / Next.js  
+- 🎨 Tailwind CSS  
+- 🧠 TypeScript  
+- 🔌 REST APIs / GraphQL  
+- ⚙️ Vite, Zustand, Framer Motion, Redux
 
-Siempre estoy buscando mejorar mis habilidades, enfrentar nuevos retos y mantenerme actualizado con las últimas tecnologías del ecosistema frontend.
-
----
-
-## 🛠️ Tecnologías que uso
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)
-![Zustand](https://img.shields.io/badge/-Zustand-000000?style=flat&logo=github)
-![Framer Motion](https://img.shields.io/badge/-Framer--Motion-EF007A?style=flat&logo=framer)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=fff)
+Siempre busco nuevos desafíos que me permitan aprender y evolucionar en el mundo tech.  
+Disfruto optimizando cada detalle visual y funcional para entregar productos de calidad profesional.
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tecnologías y Herramientas
 
-![judamerro's GitHub stats](https://github-readme-stats.vercel.app/api?username=judamerro&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=judamerro&layout=compact&theme=radical)
-
----
-
-## 🌱 Actualmente estoy...
-
-- Finalizando mis estudios como Ingeniero de Software
-- Aprendiendo más sobre testing frontend (Jest, React Testing Library)
-- Trabajando en proyectos personales con Next.js y Tailwind
-- Colaborando en proyectos open source cuando puedo
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,redux,graphql,html,css,firebase,git" />
+</p>
 
 ---
 
-## 🧠 Intereses
+## 📈 GitHub Stats
 
-- UI/UX
-- Web Performance
-- Accesibilidad
-- Animaciones en la web
-- Diseño centrado en el usuario
-
----
-
-## 📫 Contacto
-
-- 📧 Email: [judamerro@gmail.com](mailto:judamerro@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/judamerro](https://www.linkedin.com/in/judamerro/)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=judamerro&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=judamerro&layout=compact&theme=tokyonight&hide_border=true" height="170">
+</p>
 
 ---
 
-_Gracias por visitar mi perfil. ¡Estoy abierto a nuevas oportunidades y colaboraciones!_ 🚀
+## 🧠 Intereses y Enfoque
+
+- UI/UX y diseño centrado en el usuario 🧑‍🎨  
+- Animaciones fluidas con Framer Motion ✨  
+- Accesibilidad web y performance ⚡  
+- Testing frontend con Jest y React Testing Library 🔍  
+- Creación de experiencias web modernas y responsivas 📱
+
+---
+
+## 🌱 Actualmente...
+
+✅ Finalizando mis estudios como **Ingeniero de Software**  
+🚧 Desarrollando proyectos personales con **Next.js + Tailwind**  
+🔍 Aprendiendo más sobre testing y performance frontend  
+🤝 Abierto a **colaboraciones** y nuevas oportunidades
+
+---
+
+## 📬 Conecta conmigo
+
+- 📧 Email: [judamerro@gmail.com](mailto:judamerro@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/judamerro](https://www.linkedin.com/in/judamerro/)  
+- 🌐 Portafolio: *¡pronto disponible!*
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Frontend+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Apasionado+por+crear+experiencias+modernas" />
+</p>
+
+---
+
+<p align="center">
+  <i>Gracias por visitar mi perfil. ¡Siempre listo para crear algo increíble! 🚀</i>
+</p>
